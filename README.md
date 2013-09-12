@@ -8,7 +8,7 @@ group-1
 + Reena Shah (reenashah)
 + Teresa Tenfelder (teresita)
 + Tristan Tao (tristantao) - Technical Lead
- 
+
 ####2013-09-12
 
 **Weekly Goal:**
@@ -27,4 +27,7 @@ group-1
 + Piazza
 
 **Suggestion:**
-_Instructors decide on goal in mind for next class and tell students what to complete before class (i.e. a homework assignment), and students will be proactive and communicate with each other through IRC, Piazza, bSpace, and complete tasks before class (and edit documentation as we figure things out) and everyone work collaboratively during class_
+
+[  ] _Instructors decide on goal in mind for next class and tell students what to complete before class (i.e. a homework assignment)_
+
+[  ] _Students will be proactive and communicate with each other through IRC, Piazza, bSpace, and complete tasks before class (and edit documentation as we figure things out) and everyone work collaboratively during class_
