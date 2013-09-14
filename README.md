@@ -31,3 +31,5 @@ group-1
 [  ] _Instructors decide on goal in mind for next class and tell students what to complete before class (i.e. a homework assignment)_
 
 [  ] _Students will be proactive and communicate with each other through IRC, Piazza, bSpace, and complete tasks before class (and edit documentation as we figure things out) and everyone work collaboratively during class_
+
+####2013-09-17
