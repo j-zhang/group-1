@@ -33,3 +33,12 @@ group-1
 [  ] _Students will be proactive and communicate with each other through IRC, Piazza, bSpace, and complete tasks before class (and edit documentation as we figure things out) and everyone work collaboratively during class_
 
 ####2013-09-17
+
+Today we had a guest lecture from Eric Berlow
+
+####2013-09-19
+
+Today we had a guest lecture from Professor Stark.
+
+####2013-09-24
++ Python for Data Analysis through University Library
